@@ -1,0 +1,4 @@
+.env
+
+# En caso trabajemos con node, ignoramos la carpeta:
+node_modules/
